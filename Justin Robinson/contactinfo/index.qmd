@@ -1,8 +1,0 @@
----
-title: Contact info
----
-
-**Email**: jxr773@case.edu
-
-**Secondary email**: justin.robinson@som.umaryland.edu
-
