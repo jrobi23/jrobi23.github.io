@@ -1,0 +1,52 @@
+---
+title: Research & Experiences
+---
+
+# Research
+
+### Current Project
+
+Examine a cohort of patients with complete atrioventricular septal defects (CAVSD). This will build upon previously published data that have examined and defined the echocardiographic features of unbalanced CAVSD. The enrollment of this cohort is ongoing, but data collected from January 1, 2012, to January 1, 2022 will be analyzed. This cohort comprises infants diagnosed with CAVSD <3mo of age, with AV and VA concordance. Baseline demographics, assessment of pre-operative and follow-up echocardiographic measurements previously used to define unbalanced CAVSD and additional echocardiographic and hemodynamic measurements will be analyzed. An echo corelab will review all echo images. A dedicated group of data scientists will combine echo measurements and patient characteristics to improve and better define the phenotype of non-severe forms of unbalanced CAVSD. This project will use advanced machine learning techniques to find specific variables/characteristics that clearly separate groups of patients. After delineation of groups, our focus will be on examining the type of operation performed and associated outcomes. These data will allow us to predict the optimal surgical strategy for patients previously known to have poor outcomes. For patients who are classified as being extremely left or right-dominant, the surgical approach is single-ventricle palliation. However, the still perplexing question is, what surgical pathway should patients in the non-extreme, "gray" area undergo? This question desperately needs to be answered to improve survival and outcomes in this population. Therefore, a surgical strategy for one patient who exhibits non-severe unbalanced CAVSD may not benefit a patient in a similar case.  Therefore, taking a closer look into these borderline patients is paramount to "personalize" surgical strategies. After thoroughly investigating this patient cohort and examining multiple areas, we can better define patients with unusual anatomic features or those on the cusp of extremely right or left dominant, understand outcomes associated with various repair strategies, and devise a reproducible surgical pathway tool to assist clinicians.
+
+### Publications
+
+**Robinson J**, Karamlou T. The Aspiring Surgeon-Scientist: Evaluating Training Factors that Increase Scholarly Activity. Ann Thorac Surg. 2023 Oct 18:S0003-4975(23)01069-X. doi: 10.1016/j.athoracsur.2023.10.011. Epub ahead of print. PMID: 37863348.
+
+Kus N, **Robinson JA**, Hall MR, Ghoreishi M, Taylor B, Toursavadkohi S. Emergent Total Endovascular Arch Repair for Contained Aortic Arch Rupture: Another Tool in the Box. Vasc Endovascular Surg. 2023 Oct;57(7):771-775. doi: 10.1177/15385744231170919. Epub 2023 Apr 14. PMID: 37058450.
+
+**Robinson, J.**, Forbess, J.M., Slack, M. et al. Palliation of a Heterotaxy Single Ventricle Neonate with Pulmonary Atresia and Obstructed TAPVR. Pediatr Cardiol (2023).
+
+**Robinson, Justin**, et al.  Thymoma Presenting as Me-diastinal Lymphadenopathy: A Case Report. Jourl Clin Med and Cas Rep 1.5 (2022): 1022.
+
+Olive JK, Yost CC, **Robinson JA**, et al. Demographics of Current and Aspiring Integrated Six-Year Cardiothoracic Surgery Trainees [published online ahead of print, 2022 Aug 4]. Ann Thorac Surg. 2022;S0003-4975(22)00994-8.
+
+**Robinson, JA**, et al. Increasing Diversity in Cardiothoracic Surgery: First-Generation Medical Students [published online, 2021 July 2]. J Thorac Cardiovasc Surg Open.
+
+Timek TA, Beute T, **Robinson JA**, et al. Del Nido cardioplegia in isolated adult coronary artery bypass surgery [published online ahead of print, 2019 Sep 24]. J Thorac Cardiovasc Surg. 2019;S0022-5223(19)32011-2. doi:10.1016/j.jtcvs.2019.09.027
+
+
+# Experiences
+
+Mayo Clinic- Rochester, MN - Summer Research Fellowship  
+June 2019-2020
+
+
+Spectrum Health- Grand Rapids, MI - Research Intern
+December 2017- December 2018
+
+
+Wayne State University- Detroit, MI - Undergraduate Research Assistant 
+December 2015- September 2016
+
+
+
+University of Michigan- Ann Arbor, MI - Summer Research Intern 
+April 2014- August 2014
+
+                                             
+
+Michigan Life Science and Innovation Center- Plymouth, MI - Undergraduate Research Assistant
+November 2013- April 2014
+
+
+
