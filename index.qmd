@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/Justin_Robinson.png"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/j_robi23/?hl=en
+    - icon: twitter-x
+      text: X
+      href: https://twitter.com/ja_robimd?lang=bn
+---
+
+::: {#about-block}
+:::
+
+
+# About Me!
+
+Justin Robinson is a Kirklin/Ashburn research fellow at the Cleveland Clinic. This fellowship is a combined 2-year outcomes-based research and masters degree academic immersive experience. Prior to joining Cleveland Clinic, he completed 2 of 6 years of cardiothoracic surgery training at the University of Maryland Medical Center in Baltimore, MD. 
+
+Before embarking on the path to become a physician, he worked as a paramedic for 4 years, 2 of which as a SWAT paramedic. He then went on to obtain my Bachelor of Arts degree in Chemistry from Wayne State University in 2017. After obtaining his bachelors degree, he applied to and was accepted to Michigan State University College of Human Medicine for medical school and graduated in 2021. 
+
+

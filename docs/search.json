@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me!",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     X\n  \n\n\n\n\nAbout Me!\nJustin Robinson is a Kirklin/Ashburn research fellow at the Cleveland Clinic. This fellowship is a combined 2-year outcomes-based research and masters degree academic immersive experience. Prior to joining Cleveland Clinic, he completed 2 of 6 years of cardiothoracic surgery training at the University of Maryland Medical Center in Baltimore, MD.\nBefore embarking on the path to become a physician, he worked as a paramedic for 4 years, 2 of which as a SWAT paramedic. He then went on to obtain my Bachelor of Arts degree in Chemistry from Wayne State University in 2017. After obtaining his bachelors degree, he applied to and was accepted to Michigan State University College of Human Medicine for medical school and graduated in 2021."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "hobbies/index.html",
+    "href": "hobbies/index.html",
+    "title": "Hobbies and Awards",
+    "section": "",
+    "text": "Hobbies\n\nWeight training\nTriathlon\nIndoor bouldering\nPlaying the piano\nReading\nAttending concerts\n\n\n\nAwards and Activities\n\nTri CLE Duathlon - 2023\n3rd Place Male Overall Rev3 Nanticoke Sprint Duathlon - 2023\n2nd place Crossfit Rx Men Summer Open - 2017\nBrooksie Way Half-Marathon - 2012\nDetroit Free Press International Half-Marathon - 2012\nMichigan Golden Gloves light heavyweight champion - 2012"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research & Experiences",
+    "section": "",
+    "text": "Research\n\nCurrent Project\nExamine a cohort of patients with complete atrioventricular septal defects (CAVSD). This will build upon previously published data that have examined and defined the echocardiographic features of unbalanced CAVSD. The enrollment of this cohort is ongoing, but data collected from January 1, 2012, to January 1, 2022 will be analyzed. This cohort comprises infants diagnosed with CAVSD &lt;3mo of age, with AV and VA concordance. Baseline demographics, assessment of pre-operative and follow-up echocardiographic measurements previously used to define unbalanced CAVSD and additional echocardiographic and hemodynamic measurements will be analyzed. An echo corelab will review all echo images. A dedicated group of data scientists will combine echo measurements and patient characteristics to improve and better define the phenotype of non-severe forms of unbalanced CAVSD. This project will use advanced machine learning techniques to find specific variables/characteristics that clearly separate groups of patients. After delineation of groups, our focus will be on examining the type of operation performed and associated outcomes. These data will allow us to predict the optimal surgical strategy for patients previously known to have poor outcomes. For patients who are classified as being extremely left or right-dominant, the surgical approach is single-ventricle palliation. However, the still perplexing question is, what surgical pathway should patients in the non-extreme, “gray” area undergo? This question desperately needs to be answered to improve survival and outcomes in this population. Therefore, a surgical strategy for one patient who exhibits non-severe unbalanced CAVSD may not benefit a patient in a similar case. Therefore, taking a closer look into these borderline patients is paramount to “personalize” surgical strategies. After thoroughly investigating this patient cohort and examining multiple areas, we can better define patients with unusual anatomic features or those on the cusp of extremely right or left dominant, understand outcomes associated with various repair strategies, and devise a reproducible surgical pathway tool to assist clinicians.\n\n\nPublications\nRobinson J, Karamlou T. The Aspiring Surgeon-Scientist: Evaluating Training Factors that Increase Scholarly Activity. Ann Thorac Surg. 2023 Oct 18:S0003-4975(23)01069-X. doi: 10.1016/j.athoracsur.2023.10.011. Epub ahead of print. PMID: 37863348.\nKus N, Robinson JA, Hall MR, Ghoreishi M, Taylor B, Toursavadkohi S. Emergent Total Endovascular Arch Repair for Contained Aortic Arch Rupture: Another Tool in the Box. Vasc Endovascular Surg. 2023 Oct;57(7):771-775. doi: 10.1177/15385744231170919. Epub 2023 Apr 14. PMID: 37058450.\nRobinson, J., Forbess, J.M., Slack, M. et al. Palliation of a Heterotaxy Single Ventricle Neonate with Pulmonary Atresia and Obstructed TAPVR. Pediatr Cardiol (2023).\nRobinson, Justin, et al. Thymoma Presenting as Me-diastinal Lymphadenopathy: A Case Report. Jourl Clin Med and Cas Rep 1.5 (2022): 1022.\nOlive JK, Yost CC, Robinson JA, et al. Demographics of Current and Aspiring Integrated Six-Year Cardiothoracic Surgery Trainees [published online ahead of print, 2022 Aug 4]. Ann Thorac Surg. 2022;S0003-4975(22)00994-8.\nRobinson, JA, et al. Increasing Diversity in Cardiothoracic Surgery: First-Generation Medical Students [published online, 2021 July 2]. J Thorac Cardiovasc Surg Open.\nTimek TA, Beute T, Robinson JA, et al. Del Nido cardioplegia in isolated adult coronary artery bypass surgery [published online ahead of print, 2019 Sep 24]. J Thorac Cardiovasc Surg. 2019;S0022-5223(19)32011-2. doi:10.1016/j.jtcvs.2019.09.027\n\n\n\nExperiences\nMayo Clinic- Rochester, MN - Summer Research Fellowship\nJune 2019-2020\nSpectrum Health- Grand Rapids, MI - Research Intern December 2017- December 2018\nWayne State University- Detroit, MI - Undergraduate Research Assistant December 2015- September 2016\nUniversity of Michigan- Ann Arbor, MI - Summer Research Intern April 2014- August 2014\nMichigan Life Science and Innovation Center- Plymouth, MI - Undergraduate Research Assistant November 2013- April 2014"
+  },
+  {
+    "objectID": "contactinfo/index.html",
+    "href": "contactinfo/index.html",
+    "title": "Contact info",
+    "section": "",
+    "text": "Email: jxr773@case.edu\nSecondary email: justin.robinson@som.umaryland.edu"
+  }
+]
